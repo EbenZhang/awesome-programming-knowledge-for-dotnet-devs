@@ -1,3 +1,6 @@
-# First Chapter
+# Troubleshooting
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+This chapter contains knowledge about troubleshooting using Visual Studio, Windbg, as well as some general troubleshooting tips.
+
+
+
