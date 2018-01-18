@@ -10,7 +10,7 @@ It could be bought from [Amazon](https://www.amazon.com/Refactoring-Improving-De
 
 ## Highlights
 
-* [Extract Method](https://github.com/EbenZhang/awesome-programming-knowledge/blob/master/Refactoring/ExtractMethod.md)
+* \[Extract Method\]\(extract-method.md\)
 
 
 

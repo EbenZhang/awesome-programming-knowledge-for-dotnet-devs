@@ -5,6 +5,7 @@
   * [Books](writing-better-code/books.md)
     * [Refactoring: Improving the Design of Existing Code](writing-better-code/books/refactoring-improving-the-design-of-existing-code.md)
       * [Extract Method](writing-better-code/books/refactoring-improving-the-design-of-existing-code/extract-method.md)
+      * [Quotes](writing-better-code/books/refactoring-improving-the-design-of-existing-code/quotes.md)
     * Clean code: A Handbook of Agile Software Craftsmanship
     * Working effectively with legacy code
     * Code Complete
