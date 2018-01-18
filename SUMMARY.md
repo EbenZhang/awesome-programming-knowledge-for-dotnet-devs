@@ -54,4 +54,10 @@
     * Mastering Regular Expression
   * [Articles](misc/articles.md)
     * [Floating Point](misc/articles/floating-point.md)
+* [UI/UX](uiux.md)
+  * [Books](uiux/books.md)
+    * About Face: The Essentials of Interaction Design
+* [Front End](front-end.md)
+  * [Books](front-end/books.md)
+    * Stylin’ with CSS: A Designer’s Guide
 
