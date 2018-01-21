@@ -50,9 +50,8 @@
   * [Books](Troubleshooting/visual-studio-debugging-tricks-and-tips/books.md)
     * Advanced Windows Debugging
     * Advanced .NET Debugging
-      * DotNet Decompilers
   * [Tools](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools.md)
-    * DotNet Decompilers
+    * [DotNet Decompilers](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/dotnet-decompilers.md)
     * Fiddler
     * WireShark
     * System Internals
@@ -64,7 +63,7 @@
   * [Lost and Found](git/lost-and-found.md)
 * [Misc](misc.md)
   * [Books](misc/books.md)
-    * Mastering Regular Expression
+    * [Mastering Regular Expression](misc/books/mastering-regular-expression.md)
   * [Articles](misc/articles.md)
     * [Floating Point](misc/articles/floating-point.md)
 * [UI/UX](uiux.md)
