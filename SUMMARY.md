@@ -34,9 +34,9 @@
       * [Postmortem Debugging of Dump Files](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/postmortem-debugging-of-dump-files.md)
       * [Use DotPeek as Symbol Server](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/use-dotpeek-as-symbol-server.md)
       * [Tips](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/tips.md)
+      * [Learn Productivity Tips and Tricks for the Debugger in Visual Studio](Troubleshooting/Debugging/learn-productivity-tips-and-tricks-for-the-debugger-in-visual-studio.md)
+      * 7 lesser known hacks for debugging in Visual Studio
     * [WinDbg](Troubleshooting/windbg.md)
-    * Learn Productivity Tips and Tricks for the Debugger in Visual Studio
-    * 7 lesser known hacks for debugging in Visual Studio
   * [Books](Troubleshooting/visual-studio-debugging-tricks-and-tips/books.md)
     * Advanced Windows Debugging
     * Advanced .NET Debugging
