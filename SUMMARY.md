@@ -60,7 +60,7 @@
   * [Understanding Async IO, await and async](csharp/understanding-async-io-await-and-async.md)
   * C\# in Depth
   * [Books](csharp/books.md)
-    * Advanced .NET Debugging
+    * [Advanced .NET Debugging](csharp/books/advanced-net-debugging.md)
     * CLR via C\#
 * [Git](git.md)
   * [Rewrite history](git/rewrite-history.md)
