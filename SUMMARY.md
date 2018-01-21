@@ -9,7 +9,8 @@
         * [CodeForHuman](writing-better-code/books/refactoring-improving-the-design-of-existing-code/quotes/codeforhuman.md)
     * [Clean code: A Handbook of Agile Software Craftsmanship](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship.md)
       * [Meaningful name](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship/meaningful-name.md)
-    * Working effectively with legacy code
+    * [Working effectively with legacy code](writing-better-code/books/working-effectively-with-legacy-code.md)
+      * [Sprout Method](writing-better-code/books/working-effectively-with-legacy-code/sprout-method.md)
     * [Code Complete](writing-better-code/books/code-complete.md)
       * [Minimizing Scope](writing-better-code/books/code-complete/minimizing-scope.md)
       * [Avoid variables with hidden meanings](writing-better-code/books/code-complete/avoid-variables-with-hidden-meanings.md)
