@@ -21,7 +21,7 @@
     * Design Patterns
     * Agile Software Development, Principles, Patterns, and Practices
     * Patterns of Enterprise Application Architecture
-    * Refactoring: Improving the Design of Existing Code
+    * [Refactoring: Improving the Design of Existing Code](design/books/refactoring-improving-the-design-of-existing-code.md)
 * [General](general.md)
   * [Books](general/books.md)
     * [The Pragmatic Programmer: From Journeyman to Master](general/books/the-pragmatic-programmer-from-journeyman-to-master.md)
