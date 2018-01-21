@@ -23,7 +23,7 @@
   * [Books](general/books.md)
     * [The Pragmatic Programmer: From Journeyman to Master](general/books/the-pragmatic-programmer-from-journeyman-to-master.md)
       * [Don't Repeat Yourself](general/books/the-pragmatic-programmer-from-journeyman-to-master/dont-repeat-yourself.md)
-    * Code Complete
+    * [Code Complete](general/books/code-complete.md)
 * [Unit Test](unit-test.md)
   * [Books](unit-test/books.md)
     * Test Driven Development: By Example
