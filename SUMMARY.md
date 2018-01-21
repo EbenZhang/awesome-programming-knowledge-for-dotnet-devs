@@ -10,6 +10,7 @@
     * Working effectively with legacy code
     * [Code Complete](writing-better-code/books/code-complete.md)
       * [Minimizing Scope](writing-better-code/books/code-complete/minimizing-scope.md)
+      * [Avoid variables with hidden meanings](writing-better-code/books/code-complete/avoid-variables-with-hidden-meanings.md)
 * [Design](design.md)
   * [Books](design/books.md)
     * The Art of Unix Programming
