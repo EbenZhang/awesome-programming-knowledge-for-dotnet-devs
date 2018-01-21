@@ -58,6 +58,10 @@
     * PostMan
 * [CSharp](csharp.md)
   * [Understanding Async IO, await and async](csharp/understanding-async-io-await-and-async.md)
+  * Advanced .NET Debugging
+  * C\# in Depth
+  * Books
+  * CLR via C\#
 * [Git](git.md)
   * [Rewrite history](git/rewrite-history.md)
   * [Lost and Found](git/lost-and-found.md)
@@ -68,7 +72,7 @@
     * [Floating Point](misc/articles/floating-point.md)
 * [UI/UX](uiux.md)
   * [Books](uiux/books.md)
-    * About Face: The Essentials of Interaction Design
+    * [About Face: The Essentials of Interaction Design](uiux/books/about-face-the-essentials-of-interaction-design.md)
 * [Front End](front-end.md)
   * [Books](front-end/books.md)
     * Stylin’ with CSS: A Designer’s Guide
