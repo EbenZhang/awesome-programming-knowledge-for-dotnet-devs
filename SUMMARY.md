@@ -27,6 +27,9 @@
   * [Books](unit-test/books.md)
     * Test Driven Development: By Example
     * Working effectively with legacy code
+* [Database](database.md)
+  * [Books](database/books.md)
+    * [Use The Index, Luke](database/books/use-the-index-luke.md)
 * [Troubleshooting](Troubleshooting.md)
   * [Debugging](Troubleshooting/visual-studio-debugging-tricks-and-tips/debugging.md)
     * [First Chance Exception](Troubleshooting/Debugging/first-chance-exception.md)
@@ -50,9 +53,6 @@
     * WireShark
     * System Internals
     * PostMan
-* [Database](database.md)
-  * [Books](database/books.md)
-    * [Use The Index, Luke](database/books/use-the-index-luke.md)
 * [CSharp](csharp.md)
   * [Understanding Async IO, await and async](csharp/understanding-async-io-await-and-async.md)
 * [Git](git.md)
