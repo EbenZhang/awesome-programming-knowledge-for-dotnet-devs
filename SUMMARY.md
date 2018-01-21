@@ -58,10 +58,11 @@
     * PostMan
 * [CSharp](csharp.md)
   * [Understanding Async IO, await and async](csharp/understanding-async-io-await-and-async.md)
-  * Advanced .NET Debugging
   * C\# in Depth
-  * Books
-  * CLR via C\#
+  * [Books](csharp/books.md)
+    * Advanced .NET Debugging
+  * [Advanced .NET Debugging](csharp/advanced-net-debugging.md)
+  * [CLR via C\#](csharp/clr-via-c.md)
 * [Git](git.md)
   * [Rewrite history](git/rewrite-history.md)
   * [Lost and Found](git/lost-and-found.md)
