@@ -45,6 +45,10 @@
       * DotNet Decompilers
   * [Tools](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools.md)
     * DotNet Decompilers
+    * Fiddler
+    * WireShark
+    * System Internals
+    * PostMan
 * [Database](database.md)
   * [Books](database/books.md)
     * [Use The Index, Luke](database/books/use-the-index-luke.md)
