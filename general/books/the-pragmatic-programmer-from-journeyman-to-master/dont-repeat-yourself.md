@@ -1,6 +1,6 @@
 > Every piece of knowledge must have a single, unambiguous, authoritative representation within a system
 
-Also known as the SPOT rule articulated in The Art of Unix Programming, also see [http://wiki.c2.com/?DontRepeatYourself](http://wiki.c2.com/?DontRepeatYourself)
+Also known as the SPOT rule articulated in [The Art of Unix Programming](../../../design/books/the-art-of-unix-programming.md), also see [http://wiki.c2.com/?DontRepeatYourself](http://wiki.c2.com/?DontRepeatYourself)
 
 
 
