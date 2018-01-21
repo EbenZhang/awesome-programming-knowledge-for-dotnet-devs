@@ -61,8 +61,7 @@
   * C\# in Depth
   * [Books](csharp/books.md)
     * Advanced .NET Debugging
-  * [Advanced .NET Debugging](csharp/advanced-net-debugging.md)
-  * [CLR via C\#](csharp/clr-via-c.md)
+    * CLR via C\#
 * [Git](git.md)
   * [Rewrite history](git/rewrite-history.md)
   * [Lost and Found](git/lost-and-found.md)
