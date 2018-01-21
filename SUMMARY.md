@@ -14,14 +14,15 @@
       * [Avoid variables with hidden meanings](writing-better-code/books/code-complete/avoid-variables-with-hidden-meanings.md)
 * [Design](design.md)
   * [Books](design/books.md)
-    * The Art of Unix Programming
+    * [The Art of Unix Programming](design/books/the-art-of-unix-programming.md)
     * Design Patterns
     * Agile Software Development, Principles, Patterns, and Practices
     * Patterns of Enterprise Application Architecture
     * Refactoring: Improving the Design of Existing Code
 * [General](general.md)
   * [Books](general/books.md)
-    * The Pragmatic Programmer: From Journeyman to Master
+    * [The Pragmatic Programmer: From Journeyman to Master](general/books/the-pragmatic-programmer-from-journeyman-to-master.md)
+      * [Don't Repeat Yourself](general/books/the-pragmatic-programmer-from-journeyman-to-master/dont-repeat-yourself.md)
     * Code Complete
 * [Unit Test](unit-test.md)
   * [Books](unit-test/books.md)
