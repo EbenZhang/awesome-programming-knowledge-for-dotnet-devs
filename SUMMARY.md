@@ -8,7 +8,8 @@
       * [Quotes](writing-better-code/books/refactoring-improving-the-design-of-existing-code/quotes.md)
     * Clean code: A Handbook of Agile Software Craftsmanship
     * Working effectively with legacy code
-    * Code Complete
+    * [Code Complete](writing-better-code/books/code-complete.md)
+      * [Minimizing Scope](writing-better-code/books/code-complete/minimizing-scope.md)
 * [Design](design.md)
   * [Books](design/books.md)
     * The Art of Unix Programming
