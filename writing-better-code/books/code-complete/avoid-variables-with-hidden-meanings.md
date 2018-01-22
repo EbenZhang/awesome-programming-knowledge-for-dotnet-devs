@@ -1,3 +1,5 @@
+# Avoid Variables with Hidden Meaning
+
 > Another way in which a variable can be used for more than one purpose is to have different values for the variable mean different things. For example:
 >
 > * The value in the variable pageCount might represent the number of pages printed, unless it equals
