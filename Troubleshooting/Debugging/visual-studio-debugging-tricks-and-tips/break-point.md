@@ -1,8 +1,6 @@
-Besides the normal break point, you can also set trace point and conditional break point.
-
 ## Trace Point
 
-Trace point is a special break point can be used to print variables along with some text to the output and continue the execution without breaking the application. It works as if you put the code like `Trace.TraceInformation("blahblah......")`.
+Besides the normal break point, you can also set trace point and conditional break point. Trace point is a special break point can be used to print variables along with some text to the output and continue the execution without breaking the application. It works as if you put the code like `Trace.TraceInformation("blahblah......")`.
 
 To set a trace point you need to first set a normal break point and then convert it to a trace point by adding an action, which can be achieved by right clicking the break point and set the actions.
 

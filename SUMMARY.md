@@ -43,7 +43,7 @@
       * [Remote Debugging](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/remote-debugging.md)
       * [Postmortem Debugging of Dump Files](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/postmortem-debugging-of-dump-files.md)
       * [Use DotPeek as Symbol Server](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/use-dotpeek-as-symbol-server.md)
-      * [Tips](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/tips.md)
+      * [Use Resharper to Generate Symbol Files](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/use-resharper-to-generate-symbol-files.md)
       * [Learn Productivity Tips and Tricks for the Debugger in Visual Studio](Troubleshooting/Debugging/learn-productivity-tips-and-tricks-for-the-debugger-in-visual-studio.md)
       * 7 lesser known hacks for debugging in Visual Studio
     * [WinDbg](Troubleshooting/windbg.md)
