@@ -45,7 +45,7 @@
       * [Use DotPeek as Symbol Server](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/use-dotpeek-as-symbol-server.md)
       * [Use Resharper to Generate Symbol Files](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/use-resharper-to-generate-symbol-files.md)
       * [Learn Productivity Tips and Tricks for the Debugger in Visual Studio](Troubleshooting/Debugging/learn-productivity-tips-and-tricks-for-the-debugger-in-visual-studio.md)
-      * 7 lesser known hacks for debugging in Visual Studio
+      * [7 lesser known hacks for debugging in Visual Studio](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/7-lesser-known-hacks-for-debugging-in-visual-studio.md)
     * [WinDbg](Troubleshooting/windbg.md)
   * [Books](Troubleshooting/visual-studio-debugging-tricks-and-tips/books.md)
     * Advanced Windows Debugging
@@ -60,7 +60,7 @@
   * [Books](csharp/books.md)
     * [Advanced .NET Debugging](csharp/books/advanced-net-debugging.md)
     * [CLR via C\#](csharp/books/clr-via-c.md)
-    * C\# in Depth
+    * [C\# in Depth](csharp/books/c-in-depth.md)
   * [Articles](csharp/articles.md)
     * [Async/Await](csharp/articles/asyncawait.md)
       * [There is no thread for Async I/O](csharp/articles/understanding-async-io-await-and-async.md)
