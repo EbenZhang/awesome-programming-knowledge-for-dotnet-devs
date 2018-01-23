@@ -30,7 +30,7 @@
 * [Unit Test](unit-test.md)
   * [Books](unit-test/books.md)
     * [Test Driven Development: By Example](unit-test/books/test-driven-development-by-example.md)
-    * Working effectively with legacy code
+    * [Working effectively with legacy code](unit-test/books/working-effectively-with-legacy-code.md)
 * [Database](database.md)
   * [Books](database/books.md)
     * [Use The Index, Luke](database/books/use-the-index-luke.md)
