@@ -71,7 +71,7 @@
     * [Mastering Regular Expression](misc/books/mastering-regular-expression.md)
   * [Articles](misc/articles.md)
     * [Floating Point](misc/articles/floating-point.md)
-    * The Absolute Minimum about Unicode
+    * [The Absolute Minimum about Unicode](misc/articles/the-absolute-minimum-about-unicode.md)
 * [UI/UX](uiux.md)
   * [Books](uiux/books.md)
     * [About Face: The Essentials of Interaction Design](uiux/books/about-face-the-essentials-of-interaction-design.md)
