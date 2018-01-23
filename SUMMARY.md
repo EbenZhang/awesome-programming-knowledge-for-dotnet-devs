@@ -63,6 +63,7 @@
     * C\# in Depth
   * [Articles](csharp/articles.md)
     * [Understanding Async IO, await and async](csharp/articles/understanding-async-io-await-and-async.md)
+    * [Async/Await - Best Practices in Asynchronous Programming](csharp/articles/asyncawait-best-practices-in-asynchronous-programming.md)
 * [Git](git.md)
   * [Rewrite history](git/rewrite-history.md)
   * [Lost and Found](git/lost-and-found.md)
