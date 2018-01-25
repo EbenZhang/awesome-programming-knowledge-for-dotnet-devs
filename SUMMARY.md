@@ -87,4 +87,5 @@
     * [Everything](productivity/tools/everything.md)
     * ConEmu
     * Vim
+    * Bash
 
