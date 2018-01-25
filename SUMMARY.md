@@ -85,4 +85,6 @@
 * [Productivity](productivity.md)
   * [Tools](productivity/tools.md)
     * [Everything](productivity/tools/everything.md)
+    * ConEmu
+    * Vim
 
