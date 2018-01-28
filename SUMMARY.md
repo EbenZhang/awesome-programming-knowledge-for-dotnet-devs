@@ -48,8 +48,8 @@
       * [7 lesser known hacks for debugging in Visual Studio](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/7-lesser-known-hacks-for-debugging-in-visual-studio.md)
     * [WinDbg](Troubleshooting/windbg.md)
   * [Books](Troubleshooting/visual-studio-debugging-tricks-and-tips/books.md)
-    * Advanced Windows Debugging
-    * Advanced .NET Debugging
+    * [Advanced Windows Debugging](Troubleshooting/visual-studio-debugging-tricks-and-tips/books/advanced-windows-debugging.md)
+    * [Advanced .NET Debugging](Troubleshooting/visual-studio-debugging-tricks-and-tips/books/advanced-net-debugging.md)
   * [Tools](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools.md)
     * [DotNet Decompilers](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/dotnet-decompilers.md)
     * Fiddler
