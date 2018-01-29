@@ -26,8 +26,7 @@
  * `^blah`: Delete `blah` from previous command
  * `^blah^foo`: Replace `blah` with `foo` in previous command
 
- To retain history across sessions the command history among sessions, you need to add the `PROMPT_COMMAND='history -a ~/.bash_history'` to your `.bash_profile`
+ To retain history across sessions the command history among sessions, you need to add the `PROMPT_COMMAND='history -a ~/.bash_history'` to your `.bash_profile` then close and reopen all bash sessions
  ```
  echo "PROMPT_COMMAND='history -a ~/.bash_history'" >> ~/.bash_profile
- . ~/.bash_profile # execute the profile to make it effect for opening bash session. Or reopen all bash sessions.
  ```
