@@ -86,7 +86,7 @@
     * [Everything](productivity/tools/everything.md)
     * ConEmu
     * Vim
-    * Bash
+    * [Bash](productivity/tools/bash.md)
   * [Books](productivity/books.md)
     * [Mastering Regular Expression](misc/books/mastering-regular-expression.md)
 
