@@ -52,9 +52,9 @@
     * [Advanced .NET Debugging](Troubleshooting/visual-studio-debugging-tricks-and-tips/books/advanced-net-debugging.md)
   * [Tools](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools.md)
     * [DotNet Decompilers](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/dotnet-decompilers.md)
-    * Fiddler
-    * WireShark
-    * System Internals
+    * [Fiddler](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/fiddler.md)
+    * [WireShark](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/wireshark.md)
+    * [System Internals](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/system-internals.md)
     * PostMan
 * [CSharp](csharp.md)
   * [Books](csharp/books.md)
@@ -87,6 +87,7 @@
     * ConEmu
     * Vim
     * [Bash](productivity/tools/bash.md)
+      * [Navigating Bash History with Ctrl+R](productivity/tools/bash/navigating-bash-history-with-ctrl+r.md)
   * [Books](productivity/books.md)
     * [Mastering Regular Expression](misc/books/mastering-regular-expression.md)
 
