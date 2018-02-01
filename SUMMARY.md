@@ -56,6 +56,7 @@
     * [Fiddler](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/fiddler.md)
     * [WireShark](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/wireshark.md)
     * [System Internals](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/system-internals.md)
+      * [Handle](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/system-internals/handle.md)
     * PostMan
 * [CSharp](csharp.md)
   * [Books](csharp/books.md)
