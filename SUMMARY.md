@@ -20,8 +20,8 @@
     * [The Art of Unix Programming](design/books/the-art-of-unix-programming.md)
       * [The SPOT Rule](design/books/the-art-of-unix-programming/the-spot-rule.md)
     * [Design Patterns](design/books/design-patterns.md)
-    * Agile Software Development, Principles, Patterns, and Practices
-    * Patterns of Enterprise Application Architecture
+    * [Agile Software Development, Principles, Patterns, and Practices](design/books/agile-software-development-principles-patterns-and-practices.md)
+    * [Patterns of Enterprise Application Architecture](design/books/patterns-of-enterprise-application-architecture.md)
     * [Refactoring: Improving the Design of Existing Code](design/books/refactoring-improving-the-design-of-existing-code.md)
 * [General](general.md)
   * [Books](general/books.md)
