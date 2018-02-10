@@ -74,7 +74,7 @@
 * [Misc](misc.md)
   * [Books](misc/books.md)
   * [Articles](misc/articles.md)
-    * [Floating Point](misc/articles/floating-point.md)
+    * [Floating Point Accuracy](misc/articles/floating-point.md)
     * [The Absolute Minimum about Unicode](misc/articles/the-absolute-minimum-about-unicode.md)
     * [Postfix/Prefix increment operator](misc/articles/postfixprefix-increment-operator.md)
 * [UI/UX](uiux.md)
