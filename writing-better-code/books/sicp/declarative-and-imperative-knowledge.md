@@ -1,6 +1,6 @@
 # Declarative and Imperative Knowledge
 
-> The contrast between (mathematics) function and procedure (of a programming language) is a reflection of the general distinction between describing properties of things and describing how to do things, or, as it is sometimes referred to, the distinction between declarative knowledge and imperative knowledge. In mathematics we are usually concerned with declarative (what is) descriptions, whereas in computer science we are usually concerned with imperative (how to) descriptions.
+> The contrast between function(mathematics) and procedure(of a programming language) is a reflection of the general distinction between describing properties of things and describing how to do things, or, as it is sometimes referred to, the distinction between declarative knowledge and imperative knowledge. In mathematics we are usually concerned with declarative (`what is`) descriptions, whereas in computer science we are usually concerned with imperative (`how to`) descriptions.
 
 From [SICP 1.1.7](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.7) 
 
