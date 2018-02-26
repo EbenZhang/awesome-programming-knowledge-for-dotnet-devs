@@ -19,6 +19,8 @@
       * [Minimizing Scope](writing-better-code/books/code-complete/minimizing-scope.md)
       * [Avoid variables with hidden meanings](writing-better-code/books/code-complete/avoid-variables-with-hidden-meanings.md)
       * [Describe Motivations of Decisions](writing-better-code/books/code-complete/describethe-motivations-of-decisions.md)
+    * [SICP](writing-better-code/books/sicp.md)
+      * [Declarative and Imperative Knowledge](writing-better-code/books/sicp/declarative-and-imperative-knowledge.md)
 * [Design](design.md)
   * [Books](design/books.md)
     * [The Art of Unix Programming](design/books/the-art-of-unix-programming.md)
