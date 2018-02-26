@@ -11,6 +11,8 @@
       * [The Rule of Three](writing-better-code/books/refactoring-improving-the-design-of-existing-code/the-rule-of-three.md)
     * [Clean code: A Handbook of Agile Software Craftsmanship](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship.md)
       * [Meaningful name](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship/meaningful-name.md)
+      * [Single Level of Abstraction](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship/single-level-of-abstraction.md)
+      * [Small Functions](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship/small-functions.md)
     * [Working effectively with legacy code](writing-better-code/books/working-effectively-with-legacy-code.md)
       * [Sprout Method](writing-better-code/books/working-effectively-with-legacy-code/sprout-method.md)
     * [Code Complete](writing-better-code/books/code-complete.md)
