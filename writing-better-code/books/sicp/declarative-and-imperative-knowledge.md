@@ -1,6 +1,6 @@
 # Declarative and Imperative Knowledge
 
-One key thing to write beautiful program is to increase the declarative knowledge by programming towards abstraction (such as class, function and variable) with implementation (such as IF statements and loops) encapsulated.
+One key thing to write beautiful program is to increase the declarative knowledge by programming towards abstraction (such as class, function and variable) with imperative knowledge/implementation (such as IF statements and loops) encapsulated.
 
 > The contrast between (mathematics) function and (programming language) procedure a  is a reflection of the general distinction between describing properties of things and describing how to do things, or, as it is sometimes referred to, the distinction between declarative knowledge and imperative knowledge. In mathematics we are usually concerned with declarative (`what is`) descriptions, whereas in computer science we are usually concerned with imperative (`how to`) descriptions.
 
