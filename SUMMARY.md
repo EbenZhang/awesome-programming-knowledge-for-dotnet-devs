@@ -8,7 +8,7 @@
       * [Quotes](writing-better-code/books/refactoring-improving-the-design-of-existing-code/quotes.md)
         * [CodeForHuman](writing-better-code/books/refactoring-improving-the-design-of-existing-code/quotes/codeforhuman.md)
         * [Make Comment Superfluous](writing-better-code/books/refactoring-improving-the-design-of-existing-code/quotes/make-comment-superfluous.md)
-      * [The Rule of Three](writing-better-code/books/refactoring-improving-the-design-of-existing-code/the-rule-of-three.md)
+        * [The Rule of Three](writing-better-code/books/refactoring-improving-the-design-of-existing-code/the-rule-of-three.md)
     * [Clean code: A Handbook of Agile Software Craftsmanship](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship.md)
       * [Meaningful name](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship/meaningful-name.md)
       * [Single Level of Abstraction](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship/single-level-of-abstraction.md)
