@@ -42,6 +42,8 @@
 * [Database](database.md)
   * [Books](database/books.md)
     * [Use The Index, Luke](database/books/use-the-index-luke.md)
+  * [Articles](database/articles.md)
+    * Finding and Extracting SQLServer deadlock information using Extended Events
 * [Troubleshooting](Troubleshooting.md)
   * [Debugging](Troubleshooting/visual-studio-debugging-tricks-and-tips/debugging.md)
     * [First Chance Exception](Troubleshooting/Debugging/first-chance-exception.md)
