@@ -79,7 +79,7 @@
 * [Git](git.md)
   * [Rewrite history](git/rewrite-history.md)
   * [Lost and Found](git/lost-and-found.md)
-  * Understand Git As a Distributed System
+  * [Understand Git As a Distributed System](git/understand-git-as-a-distributed-system.md)
 * [Misc](misc.md)
   * [Books](misc/books.md)
   * [Articles](misc/articles.md)
