@@ -66,7 +66,7 @@
     * [WireShark](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/wireshark.md)
     * [System Internals](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/system-internals.md)
       * [Handle](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/system-internals/handle.md)
-    * PostMan
+    * [PostMan](Troubleshooting/visual-studio-debugging-tricks-and-tips/tools/postman.md)
 * [CSharp](csharp.md)
   * [Books](csharp/books.md)
     * [Advanced .NET Debugging](csharp/books/advanced-net-debugging.md)
