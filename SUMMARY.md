@@ -21,6 +21,8 @@
       * [Describe Motivations of Decisions](writing-better-code/books/code-complete/describethe-motivations-of-decisions.md)
     * [Structure and Interpretation of Computer Programs](writing-better-code/books/sicp.md)
       * [Declarative and Imperative Knowledge](writing-better-code/books/sicp/declarative-and-imperative-knowledge.md)
+  * [Articles](writing-better-code/articles.md)
+    * [Two ways of constructing a software design](writing-better-code/articles/two-ways-of-constructing-a-software-design.md)
 * [Design](design.md)
   * [Books](design/books.md)
     * [The Art of Unix Programming](design/books/the-art-of-unix-programming.md)
