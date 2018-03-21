@@ -13,6 +13,7 @@
       * [Meaningful name](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship/meaningful-name.md)
       * [Single Level of Abstraction](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship/single-level-of-abstraction.md)
       * [Small Functions](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship/small-functions.md)
+      * [Avoid having BOOL Function Parameters](writing-better-code/books/clean-code-a-handbook-of-agile-software-craftsmanship/avoid-having-bool-function-parameters.md)
     * [Working effectively with legacy code](writing-better-code/books/working-effectively-with-legacy-code.md)
       * [Sprout Method](writing-better-code/books/working-effectively-with-legacy-code/sprout-method.md)
     * [Code Complete](writing-better-code/books/code-complete.md)
