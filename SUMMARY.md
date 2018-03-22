@@ -60,6 +60,7 @@
       * [Learn Productivity Tips and Tricks for the Debugger in Visual Studio](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/learn-productivity-tips-and-tricks-for-the-debugger-in-visual-studio.md)
       * [7 lesser known hacks for debugging in Visual Studio](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/7-lesser-known-hacks-for-debugging-in-visual-studio.md)
     * [WinDbg](Troubleshooting/windbg.md)
+    * [Show Parameter Values in Call Stack Window](Troubleshooting/Debugging/show-parameter-values-in-call-stack-window.md)
   * [Books](Troubleshooting/books.md)
     * [Advanced Windows Debugging](Troubleshooting/books/advanced-windows-debugging.md)
     * [Advanced .NET Debugging](Troubleshooting/books/advanced-net-debugging.md)
