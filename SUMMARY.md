@@ -112,4 +112,5 @@
     * [Mastering Regular Expression](misc/books/mastering-regular-expression.md)
 * [System](system.md)
   * [Windows Message Queue](system/windows-message-queue.md)
+  * [Mysteries of Memory Management Revealed,with Mark Russinovich](system/mysteries-of-memory-management-revealedwith-mark-russinovich.md)
 
