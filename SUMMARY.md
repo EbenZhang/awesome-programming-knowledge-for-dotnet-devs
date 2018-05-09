@@ -70,6 +70,9 @@
     * [WireShark](Troubleshooting/tools/wireshark.md)
     * [System Internals](Troubleshooting/tools/system-internals.md)
       * [Handle](Troubleshooting/tools/system-internals/handle.md)
+      * ProcessMonitor
+      * ProcessExp
+      * [RAMMap](Troubleshooting/tools/system-internals/rammap.md)
     * [PostMan](Troubleshooting/tools/postman.md)
 * [CSharp](csharp.md)
   * [Books](csharp/books.md)
@@ -107,4 +110,6 @@
       * [Navigating Bash History with Ctrl+R](productivity/tools/bash/navigating-bash-history-with-ctrl+r.md)
   * [Books](productivity/books.md)
     * [Mastering Regular Expression](misc/books/mastering-regular-expression.md)
+* [System](system.md)
+  * [Windows Message Queue](system/windows-message-queue.md)
 
