@@ -73,6 +73,7 @@
     * [DotNet Decompilers](Troubleshooting/tools/dotnet-decompilers.md)
     * [Fiddler](Troubleshooting/tools/fiddler.md)
       * [Configure Fiddler to Decrypt HTTPS Traffic](Troubleshooting/tools/fiddler/configure-fiddler-to-decrypt-https-traffic.md)
+      * [How to monitor web requests from localhost to localhost using Fiddler](Troubleshooting/tools/fiddler/how-to-monitor-web-requests-from-localhost-to-localhost-using-fiddler.md)
     * [WireShark](Troubleshooting/tools/wireshark.md)
     * [System Internals](Troubleshooting/tools/system-internals.md)
       * [Handle](Troubleshooting/tools/system-internals/handle.md)
