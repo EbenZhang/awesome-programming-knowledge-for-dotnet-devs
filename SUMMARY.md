@@ -87,6 +87,7 @@
   * [Rewrite history](git/rewrite-history.md)
   * [Lost and Found](git/lost-and-found.md)
   * [Understand Git As a Distributed System](git/understand-git-as-a-distributed-system.md)
+  * [Write Good Commit Message](git/write-good-commit-message.md)
 * [Misc](misc.md)
   * [Books](misc/books.md)
   * [Articles](misc/articles.md)
