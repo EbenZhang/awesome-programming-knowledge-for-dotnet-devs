@@ -75,6 +75,7 @@
       * ProcessExp
       * [RAMMap](Troubleshooting/tools/system-internals/rammap.md)
     * [PostMan](Troubleshooting/tools/postman.md)
+      * [Postman AWS Signature Auth](Troubleshooting/tools/postman/postman-aws-signature-auth.md)
     * [Asmspy](Troubleshooting/tools/asmspy.md)
 * [CSharp](csharp.md)
   * [Books](csharp/books.md)
