@@ -113,6 +113,7 @@
     * [Floating Point Accuracy](misc/articles/floating-point.md)
     * [The Absolute Minimum about Unicode](misc/articles/the-absolute-minimum-about-unicode.md)
     * [Postfix/Prefix increment operator](misc/articles/postfixprefix-increment-operator.md)
+    * [How A Typo Screwed Up One Of History's Worst Video Games](misc/articles/how-a-typo-screwed-up-one-of-historys-worst-video-games.md)
 * [UI/UX](uiux.md)
   * [Books](uiux/books.md)
     * [About Face: The Essentials of Interaction Design](uiux/books/about-face-the-essentials-of-interaction-design.md)
