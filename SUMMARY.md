@@ -115,6 +115,7 @@
     * Vim
     * [Bash](productivity/tools/bash.md)
       * [Navigating Bash History with Ctrl+R](productivity/tools/bash/navigating-bash-history-with-ctrl+r.md)
+    * [Customise Your Powershell](productivity/tools/customise-your-powershell.md)
   * [Books](productivity/books.md)
     * [Mastering Regular Expression](misc/books/mastering-regular-expression.md)
 * [System](system.md)
