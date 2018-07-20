@@ -93,6 +93,7 @@
     * [Directory.Build.props](csharp/articles/directorybuildprops.md)
     * [Memory Limits in a .NET Process](csharp/articles/memory-limits-in-a-net-process.md)
     * [Prefer Timespan](csharp/articles/prefer-timespan.md)
+    * [Document Outline View](csharp/articles/document-outline-view.md)
 * [Git](git.md)
   * [Rewrite history](git/rewrite-history.md)
   * [Lost and Found](git/lost-and-found.md)
