@@ -102,6 +102,7 @@
   * [Understand Git As a Distributed System](git/understand-git-as-a-distributed-system.md)
   * [Write Good Commit Message](git/write-good-commit-message.md)
   * [Staging selected lines](git/staging-selected-lines.md)
+  * Working Tree
 * [Misc](misc.md)
   * [Books](misc/books.md)
   * [Articles](misc/articles.md)
