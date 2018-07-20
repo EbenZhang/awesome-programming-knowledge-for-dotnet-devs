@@ -83,6 +83,7 @@
     * [Async/Await](csharp/articles/asyncawait.md)
       * [There is no thread for Async I/O](csharp/articles/understanding-async-io-await-and-async.md)
       * [Async/Await - Best Practices in Asynchronous Programming](csharp/articles/asyncawait-best-practices-in-asynchronous-programming.md)
+    * [Rethrow Exception](csharp/articles/rethrow-exception.md)
 * [Git](git.md)
   * [Rewrite history](git/rewrite-history.md)
   * [Lost and Found](git/lost-and-found.md)
