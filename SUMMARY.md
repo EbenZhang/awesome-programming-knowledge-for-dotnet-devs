@@ -74,6 +74,7 @@
       * ProcessExp
       * [RAMMap](Troubleshooting/tools/system-internals/rammap.md)
     * [PostMan](Troubleshooting/tools/postman.md)
+    * [Asmspy](Troubleshooting/tools/asmspy.md)
 * [CSharp](csharp.md)
   * [Books](csharp/books.md)
     * [Advanced .NET Debugging](csharp/books/advanced-net-debugging.md)
