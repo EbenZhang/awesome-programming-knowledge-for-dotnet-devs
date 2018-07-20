@@ -111,6 +111,7 @@
     * Stylin’ with CSS: A Designer’s Guide
   * [Articles](front-end/articles.md)
     * [Introduction to Basic CSS Selectors](front-end/articles/introduction-to-basic-css-selectors.md)
+    * How Browser Works
 * [Productivity](productivity.md)
   * [Tools](productivity/tools.md)
     * [Everything](productivity/tools/everything.md)
