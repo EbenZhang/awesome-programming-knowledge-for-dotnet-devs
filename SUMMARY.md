@@ -62,6 +62,7 @@
     * [WinDbg](Troubleshooting/windbg.md)
     * [Show Parameter Values in Call Stack Window](Troubleshooting/Debugging/show-parameter-values-in-call-stack-window.md)
     * [Windows Debugging and Troubleshooting](Troubleshooting/Debugging/windows-debugging-and-troubleshooting.md)
+    * [Mysteries of Memory Management Revealed,with Mark Russinovich](Troubleshooting/Debugging/mysteries-of-memory-management-revealedwith-mark-russinovich.md)
   * [Books](Troubleshooting/books.md)
     * [Advanced Windows Debugging](Troubleshooting/books/advanced-windows-debugging.md)
     * [Advanced .NET Debugging](Troubleshooting/books/advanced-net-debugging.md)
