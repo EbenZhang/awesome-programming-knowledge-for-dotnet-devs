@@ -97,6 +97,7 @@
 * [Git](git.md)
   * [Rewrite history](git/rewrite-history.md)
   * [Lost and Found](git/lost-and-found.md)
+    * [How to recover lost commits using GitExtensions](git/lost-and-found/how-to-recover-lost-commits-using-gitextensions.md)
   * [Understand Git As a Distributed System](git/understand-git-as-a-distributed-system.md)
   * [Write Good Commit Message](git/write-good-commit-message.md)
   * [Staging selected lines](git/staging-selected-lines.md)
