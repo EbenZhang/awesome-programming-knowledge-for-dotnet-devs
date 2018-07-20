@@ -88,6 +88,7 @@
       * [Async/Await - Best Practices in Asynchronous Programming](csharp/articles/asyncawait-best-practices-in-asynchronous-programming.md)
     * [Rethrow Exception](csharp/articles/rethrow-exception.md)
     * Different effects of bindingRedirect
+    * [About Messages and Message Queues](csharp/about-messages-and-message-queues.md)
 * [Git](git.md)
   * [Rewrite history](git/rewrite-history.md)
   * [Lost and Found](git/lost-and-found.md)
