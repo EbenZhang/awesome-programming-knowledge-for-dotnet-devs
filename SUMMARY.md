@@ -91,6 +91,7 @@
     * Different effects of bindingRedirect
     * [About Messages and Message Queues](csharp/about-messages-and-message-queues.md)
     * [Directory.Build.props](csharp/articles/directorybuildprops.md)
+    * [Memory Limits in a .NET Process](csharp/articles/memory-limits-in-a-net-process.md)
 * [Git](git.md)
   * [Rewrite history](git/rewrite-history.md)
   * [Lost and Found](git/lost-and-found.md)
