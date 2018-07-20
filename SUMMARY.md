@@ -59,6 +59,7 @@
       * [Use Resharper to Generate Symbol Files](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/use-resharper-to-generate-symbol-files.md)
       * [Learn Productivity Tips and Tricks for the Debugger in Visual Studio](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/learn-productivity-tips-and-tricks-for-the-debugger-in-visual-studio.md)
       * [7 lesser known hacks for debugging in Visual Studio](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/7-lesser-known-hacks-for-debugging-in-visual-studio.md)
+      * [View Threads and Tasks using the Parallel Stacks Window](Troubleshooting/Debugging/visual-studio-debugging-tricks-and-tips/view-threads-and-tasks-using-the-parallel-stacks-window.md)
     * [WinDbg](Troubleshooting/windbg.md)
     * [Show Parameter Values in Call Stack Window](Troubleshooting/Debugging/show-parameter-values-in-call-stack-window.md)
     * [Windows Debugging and Troubleshooting](Troubleshooting/Debugging/windows-debugging-and-troubleshooting.md)
