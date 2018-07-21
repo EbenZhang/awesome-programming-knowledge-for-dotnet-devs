@@ -77,8 +77,8 @@
     * [WireShark](Troubleshooting/tools/wireshark.md)
     * [System Internals](Troubleshooting/tools/system-internals.md)
       * [Handle](Troubleshooting/tools/system-internals/handle.md)
-      * ProcessMonitor
-      * ProcessExp
+      * [ProcessMonitor](Troubleshooting/tools/system-internals/processmonitor.md)
+      * [ProcessExp](Troubleshooting/tools/system-internals/processexp.md)
       * [RAMMap](Troubleshooting/tools/system-internals/rammap.md)
     * [PostMan](Troubleshooting/tools/postman.md)
       * [Postman AWS Signature Auth](Troubleshooting/tools/postman/postman-aws-signature-auth.md)
@@ -93,7 +93,7 @@
       * [There is no thread for Async I/O](csharp/articles/understanding-async-io-await-and-async.md)
       * [Async/Await - Best Practices in Asynchronous Programming](csharp/articles/asyncawait-best-practices-in-asynchronous-programming.md)
     * [Rethrow Exception](csharp/articles/rethrow-exception.md)
-    * Different effects of bindingRedirect
+    * [Different effects of bindingRedirect](csharp/articles/different-effects-of-bindingredirect.md)
     * [About Messages and Message Queues](csharp/about-messages-and-message-queues.md)
     * [Directory.Build.props](csharp/articles/directorybuildprops.md)
     * [Memory Limits in a .NET Process](csharp/articles/memory-limits-in-a-net-process.md)
@@ -106,7 +106,7 @@
   * [Understand Git As a Distributed System](git/understand-git-as-a-distributed-system.md)
   * [Write Good Commit Message](git/write-good-commit-message.md)
   * [Staging selected lines](git/staging-selected-lines.md)
-  * Working Tree
+  * [Working Tree](git/working-tree.md)
 * [Misc](misc.md)
   * [Books](misc/books.md)
   * [Articles](misc/articles.md)
@@ -118,15 +118,15 @@
     * [About Face: The Essentials of Interaction Design](uiux/books/about-face-the-essentials-of-interaction-design.md)
 * [Front End](front-end.md)
   * [Books](front-end/books.md)
-    * Stylin’ with CSS: A Designer’s Guide
+    * [Stylin’ with CSS: A Designer’s Guide](front-end/books/stylin-with-css-a-designers-guide.md)
   * [Articles](front-end/articles.md)
     * [Introduction to Basic CSS Selectors](front-end/articles/introduction-to-basic-css-selectors.md)
-    * How Browser Works
+    * [How Browser Works](front-end/articles/how-browser-works.md)
 * [Productivity](productivity.md)
   * [Tools](productivity/tools.md)
     * [Everything](productivity/tools/everything.md)
-    * ConEmu
-    * Vim
+    * [ConEmu](productivity/tools/conemu.md)
+    * [Vim](productivity/tools/vim.md)
     * [Bash](productivity/tools/bash.md)
       * [Navigating Bash History with Ctrl+R](productivity/tools/bash/navigating-bash-history-with-ctrl+r.md)
     * [Customise Your Powershell](productivity/tools/customise-your-powershell.md)
