@@ -4,5 +4,3 @@ If the version number can't tell you whether your code inside an assembly, the s
 
 [DnSpy](https://github.com/0xd4d/dnSpy): Portable and also able to modify the assembly
 
-[IlSpy](https://github.com/icsharpcode/ILSpy): from my experience, the code decompiled is not as good as the above two.
-
