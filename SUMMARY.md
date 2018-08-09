@@ -28,6 +28,7 @@
   * [Books](design/books.md)
     * [The Art of Unix Programming](design/books/the-art-of-unix-programming.md)
       * [The SPOT Rule](design/books/the-art-of-unix-programming/the-spot-rule.md)
+      * [Rule of Clarity: Clarity is better than cleverness](design/books/the-art-of-unix-programming/rule-of-clarity-clarity-is-better-than-cleverness.md)
     * [Design Patterns](design/books/design-patterns.md)
     * [Agile Software Development, Principles, Patterns, and Practices](design/books/agile-software-development-principles-patterns-and-practices.md)
     * [Patterns of Enterprise Application Architecture](design/books/patterns-of-enterprise-application-architecture.md)
