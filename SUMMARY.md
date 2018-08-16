@@ -134,6 +134,7 @@
     * [Customise Your Powershell](productivity/tools/customise-your-powershell.md)
   * [Books](productivity/books.md)
     * [Mastering Regular Expression](misc/books/mastering-regular-expression.md)
+  * [Text-Editing Keyboard Shortcuts](productivity/text-editing-keyboard-shortcuts.md)
 * [System](system.md)
   * [Windows Message Queue](system/windows-message-queue.md)
   * [Mysteries of Memory Management Revealed,with Mark Russinovich](system/mysteries-of-memory-management-revealedwith-mark-russinovich.md)
