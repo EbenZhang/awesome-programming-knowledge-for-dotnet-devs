@@ -1,4 +1,4 @@
-# Understand Git As a Distributed System
+# Understand Git is a Distributed Source Control System
 
 Let's say that Alice is the developer, she can pull changes/branches from multiple remotes such as GitHub, GitLab, and even another developer Bob. Our first remote will be, but not necessarily, named as `origin` by default, in fact, we can name it whatever we like.
 

@@ -101,7 +101,7 @@
     * [Prefer Timespan](csharp/articles/prefer-timespan.md)
     * [Document Outline View](csharp/articles/document-outline-view.md)
 * [Practical Git via GitExtensions](git/README.md)
-  * [Understand Git As a Distributed System](git/understand-git-as-a-distributed-system.md)
+  * [Understand Git is a Distributed Source Control System](git/understand-git-as-a-distributed-system.md)
   * [Bare Minimal Configurations](git/bare-minimal-configurations.md)
   * [How to Create a New Branch](git/how-to-create-a-new-branch.md)
   * [How to Make a Commit](git/how-to-make-a-commit.md)
