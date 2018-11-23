@@ -1,0 +1,4 @@
+# Different effects of bindingRedirect
+
+
+

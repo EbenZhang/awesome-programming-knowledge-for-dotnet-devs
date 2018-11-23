@@ -8,5 +8,5 @@
 >
 > you forgot one of the many details you needed to remember.
 
-From [Code Complete 2 edition page 250](https://books.google.com.au/books?id=LpVCAwAAQBAJ&lpg=PA250&ots=GHIqlcEhJO&dq=code complete Minimizing Scope&pg=PA250#v=onepage&q&f=true)
+From [Code Complete 2 edition page 250](https://books.google.com.au/books?id=LpVCAwAAQBAJ&lpg=PA250&ots=GHIqlcEhJO&dq=code%20complete%20Minimizing%20Scope&pg=PA250#v=onepage&q&f=true)
 
