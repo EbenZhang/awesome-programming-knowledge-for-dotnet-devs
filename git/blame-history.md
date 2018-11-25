@@ -1,2 +1,0 @@
-# Blame History
-

@@ -1,4 +1,0 @@
-# Practical Git via GitExtensions
-
-
-
